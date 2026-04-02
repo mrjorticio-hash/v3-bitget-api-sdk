@@ -1,4 +1,4 @@
-<?php
+<?pi
 
 require './vendor/autoload.php';
 
